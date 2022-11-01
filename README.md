@@ -1,7 +1,7 @@
 # Analog_Clock
 Created an Analog Clock using HTMK, CSS, JavaScript. An analog clock is a tool for reading the time of day.
 
-The link for this project is 
+The link for this project is https://itssupriyanaik123.github.io/Analog_Clock/
 
 The longest hand indicates the seconds, the longer one indicates the minutes while the smallest one indicates the hours.
 
