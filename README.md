@@ -3,7 +3,6 @@ Created an Analog Clock using HTMK, CSS, JavaScript. An analog clock is a tool f
 
 The link for this project is https://itssupriyanaik123.github.io/Analog_Clock/
 
-
 The longest hand indicates the seconds, the longer one indicates the minutes while the smallest one indicates the hours.
 
 The shortest hand indicates the hour, a longer hand indicates the minutes, and the longest arm indicates the seconds.
